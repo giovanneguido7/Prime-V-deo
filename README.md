@@ -2,7 +2,9 @@
 
 Este projeto é uma simulação do aplicativo Prime Video da Amazon, desenvolvido utilizando React Native. O objetivo é replicar a interface e algumas funcionalidades básicas do Prime Video para dispositivos móveis Android.
 
-![Screenshot do App](src\assets\Captura de tela 2024-04-19 162630.png)
+![Screenshot do App]
+<img src="https://ibb.co/X21LFJm" alt="Meu App"/>
+
 
 ## Funcionalidades
 
